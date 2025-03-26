@@ -8,6 +8,27 @@
 
 ---
 
+Welcome to my GitHub profile! I'm a passionate developer always looking for new challenges and learning opportunities.
+## 🌱 I'm Learning
+
+- Machine Learning (Python)
+- AI and Data Science
+- Cloud Platforms and DevOps
+
+---
+
+## 📚 Latest Projects
+
+### [Project 1: Hire Your Wheels](https://github.com/MSakibR/HireYourWheels)
+- Developed a car-sharing platform that allows users to rent and share vehicles.
+- Features: User authentication, car listing, booking system, payment integration, and user profile management.
+
+### [Project 2: New Portfolio](https://github.com/MSakibR/Portfolio)
+- Created a personal portfolio website to showcase projects, skills, and experience.
+- Features: Interactive UI, responsive design, dark/light theme toggle, and animated elements for a modern user experience.
+
+---
+
 ## 🔗 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/saku-rahman/" target="_blank">
@@ -44,22 +65,9 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MSakibR&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📊 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSakibR&layout=compact&theme=radical&hide_border=true" />
 </p>
-
----
-
-## 💡 Fun Fact  
-🐍 **Check out my contribution graph snake animation!**  
-![Snake animation](https://github.com/MSakibR/MSakibR/blob/main/github-contribution-grid-snake.svg)
 
 ---
