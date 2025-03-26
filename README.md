@@ -46,7 +46,7 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MSakibR&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MSakibR&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -60,6 +60,6 @@
 
 ## 💡 Fun Fact  
 🐍 **Check out my contribution graph snake animation!**  
-![Snake animation](https://github.com/MSakibR/MSakibR/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MSakibR/MSakibR/blob/main/github-contribution-grid-snake.svg)
 
 ---
